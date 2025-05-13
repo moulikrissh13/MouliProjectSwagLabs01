@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Browser opened]]>
+    </line>
+    <line>
+      <![CDATA[Browser opened]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to the application]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to the application]]>
+    </line>
+    <line>
+      <![CDATA[Login Page displayed]]>
+    </line>
+    <line>
+      <![CDATA[Login Page displayed]]>
+    </line>
+    <line>
+      <![CDATA[Username is: standard_user]]>
+    </line>
+    <line>
+      <![CDATA[Username is: standard_user]]>
+    </line>
+    <line>
+      <![CDATA[Password is: secret_sauce]]>
+    </line>
+    <line>
+      <![CDATA[Password is: secret_sauce]]>
+    </line>
+    <line>
+      <![CDATA[Login button clicked]]>
+    </line>
+    <line>
+      <![CDATA[Login button clicked]]>
+    </line>
+    <line>
+      <![CDATA[Home page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Home page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Browser opened]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to the application]]>
+    </line>
+    <line>
+      <![CDATA[Login Page displayed]]>
+    </line>
+    <line>
+      <![CDATA[Username is: standard_user]]>
+    </line>
+    <line>
+      <![CDATA[Password is: secret_sauce]]>
+    </line>
+    <line>
+      <![CDATA[Login button clicked]]>
+    </line>
+    <line>
+      <![CDATA[Home page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Product clicked]]>
+    </line>
+    <line>
+      <![CDATA[Product clicked]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on cart button]]>
+    </line>
+    <line>
+      <![CDATA[Product is dispalyed]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on cart button]]>
+    </line>
+    <line>
+      <![CDATA[Product is dispalyed]]>
+    </line>
+    <line>
+      <![CDATA[Product clicked]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on cart button]]>
+    </line>
+    <line>
+      <![CDATA[Product is dispalyed]]>
+    </line>
+    <line>
+      <![CDATA[First name added]]>
+    </line>
+    <line>
+      <![CDATA[First name added]]>
+    </line>
+    <line>
+      <![CDATA[Last name added]]>
+    </line>
+    <line>
+      <![CDATA[Last name added]]>
+    </line>
+    <line>
+      <![CDATA[Zipcode added]]>
+    </line>
+    <line>
+      <![CDATA[Zipcode added]]>
+    </line>
+    <line>
+      <![CDATA[Checkout description is dispalyed]]>
+    </line>
+    <line>
+      <![CDATA[Thank you message is dispalyed]]>
+    </line>
+    <line>
+      <![CDATA[Hurrrraayyyyyy!!!!! Your product is placed]]>
+    </line>
+    <line>
+      <![CDATA[Checkout description is dispalyed]]>
+    </line>
+    <line>
+      <![CDATA[Thank you message is dispalyed]]>
+    </line>
+    <line>
+      <![CDATA[Hurrrraayyyyyy!!!!! Your product is placed]]>
+    </line>
+    <line>
+      <![CDATA[Logout suucessful]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[First name added]]>
+    </line>
+    <line>
+      <![CDATA[Logout suucessful]]>
+    </line>
+    <line>
+      <![CDATA[Last name added]]>
+    </line>
+    <line>
+      <![CDATA[Zipcode added]]>
+    </line>
+    <line>
+      <![CDATA[Checkout description is dispalyed]]>
+    </line>
+    <line>
+      <![CDATA[Thank you message is dispalyed]]>
+    </line>
+    <line>
+      <![CDATA[Hurrrraayyyyyy!!!!! Your product is placed]]>
+    </line>
+    <line>
+      <![CDATA[Logout suucessful]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-05-13T21:30:20 IST" name="RegressionSuite" finished-at="2025-05-13T21:30:38 IST" duration-ms="18260">
+    <groups>
+    </groups>
+    <test started-at="2025-05-13T21:30:20 IST" name="Test1" finished-at="2025-05-13T21:30:36 IST" duration-ms="16050">
+      <class name="AddProduct.AddProductTest">
+        <test-method is-config="true" signature="browserOpen(java.lang.String)[pri:0, instance:AddProduct.AddProductTest@62ddbd7e]" started-at="2025-05-13T21:30:20 IST" name="browserOpen" finished-at="2025-05-13T21:30:22 IST" duration-ms="2220" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser opened]]>
+            </line>
+            <line>
+              <![CDATA[Navigated to the application]]>
+            </line>
+            <line>
+              <![CDATA[Login Page displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserOpen -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:AddProduct.AddProductTest@62ddbd7e]" started-at="2025-05-13T21:30:22 IST" name="Login" finished-at="2025-05-13T21:30:22 IST" duration-ms="445" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Username is: standard_user]]>
+            </line>
+            <line>
+              <![CDATA[Password is: secret_sauce]]>
+            </line>
+            <line>
+              <![CDATA[Login button clicked]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="addproduct()[pri:0, instance:AddProduct.AddProductTest@62ddbd7e]" started-at="2025-05-13T21:30:22 IST" name="addproduct" finished-at="2025-05-13T21:30:35 IST" duration-ms="12788" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Home page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Product clicked]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on cart button]]>
+            </line>
+            <line>
+              <![CDATA[Product is dispalyed]]>
+            </line>
+            <line>
+              <![CDATA[First name added]]>
+            </line>
+            <line>
+              <![CDATA[Last name added]]>
+            </line>
+            <line>
+              <![CDATA[Zipcode added]]>
+            </line>
+            <line>
+              <![CDATA[Checkout description is dispalyed]]>
+            </line>
+            <line>
+              <![CDATA[Thank you message is dispalyed]]>
+            </line>
+            <line>
+              <![CDATA[Hurrrraayyyyyy!!!!! Your product is placed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addproduct -->
+        <test-method is-config="true" signature="Logout()[pri:0, instance:AddProduct.AddProductTest@62ddbd7e]" started-at="2025-05-13T21:30:35 IST" name="Logout" finished-at="2025-05-13T21:30:35 IST" duration-ms="310" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout suucessful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:AddProduct.AddProductTest@62ddbd7e]" started-at="2025-05-13T21:30:35 IST" name="browserClose" finished-at="2025-05-13T21:30:36 IST" duration-ms="235" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- AddProduct.AddProductTest -->
+    </test> <!-- Test1 -->
+    <test started-at="2025-05-13T21:30:20 IST" name="Test3" finished-at="2025-05-13T21:30:37 IST" duration-ms="17445">
+      <class name="AddProduct.AddProductTest">
+        <test-method is-config="true" signature="browserOpen(java.lang.String)[pri:0, instance:AddProduct.AddProductTest@3d34d211]" started-at="2025-05-13T21:30:20 IST" name="browserOpen" finished-at="2025-05-13T21:30:22 IST" duration-ms="2230" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser opened]]>
+            </line>
+            <line>
+              <![CDATA[Navigated to the application]]>
+            </line>
+            <line>
+              <![CDATA[Login Page displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserOpen -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:AddProduct.AddProductTest@3d34d211]" started-at="2025-05-13T21:30:22 IST" name="Login" finished-at="2025-05-13T21:30:22 IST" duration-ms="424" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Username is: standard_user]]>
+            </line>
+            <line>
+              <![CDATA[Password is: secret_sauce]]>
+            </line>
+            <line>
+              <![CDATA[Login button clicked]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="addproduct()[pri:0, instance:AddProduct.AddProductTest@3d34d211]" started-at="2025-05-13T21:30:22 IST" name="addproduct" finished-at="2025-05-13T21:30:35 IST" duration-ms="13059" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Home page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Product clicked]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on cart button]]>
+            </line>
+            <line>
+              <![CDATA[Product is dispalyed]]>
+            </line>
+            <line>
+              <![CDATA[First name added]]>
+            </line>
+            <line>
+              <![CDATA[Last name added]]>
+            </line>
+            <line>
+              <![CDATA[Zipcode added]]>
+            </line>
+            <line>
+              <![CDATA[Checkout description is dispalyed]]>
+            </line>
+            <line>
+              <![CDATA[Thank you message is dispalyed]]>
+            </line>
+            <line>
+              <![CDATA[Hurrrraayyyyyy!!!!! Your product is placed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addproduct -->
+        <test-method is-config="true" signature="Logout()[pri:0, instance:AddProduct.AddProductTest@3d34d211]" started-at="2025-05-13T21:30:35 IST" name="Logout" finished-at="2025-05-13T21:30:36 IST" duration-ms="408" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout suucessful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:AddProduct.AddProductTest@3d34d211]" started-at="2025-05-13T21:30:36 IST" name="browserClose" finished-at="2025-05-13T21:30:37 IST" duration-ms="1285" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- AddProduct.AddProductTest -->
+    </test> <!-- Test3 -->
+    <test started-at="2025-05-13T21:30:20 IST" name="Test2" finished-at="2025-05-13T21:30:38 IST" duration-ms="18260">
+      <class name="AddProduct.AddProductTest">
+        <test-method is-config="true" signature="browserOpen(java.lang.String)[pri:0, instance:AddProduct.AddProductTest@6f4a47c7]" started-at="2025-05-13T21:30:20 IST" name="browserOpen" finished-at="2025-05-13T21:30:24 IST" duration-ms="4529" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser opened]]>
+            </line>
+            <line>
+              <![CDATA[Navigated to the application]]>
+            </line>
+            <line>
+              <![CDATA[Login Page displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserOpen -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:AddProduct.AddProductTest@6f4a47c7]" started-at="2025-05-13T21:30:24 IST" name="Login" finished-at="2025-05-13T21:30:24 IST" duration-ms="418" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Username is: standard_user]]>
+            </line>
+            <line>
+              <![CDATA[Password is: secret_sauce]]>
+            </line>
+            <line>
+              <![CDATA[Login button clicked]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="addproduct()[pri:0, instance:AddProduct.AddProductTest@6f4a47c7]" started-at="2025-05-13T21:30:24 IST" name="addproduct" finished-at="2025-05-13T21:30:36 IST" duration-ms="11876" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Home page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Product clicked]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on cart button]]>
+            </line>
+            <line>
+              <![CDATA[Product is dispalyed]]>
+            </line>
+            <line>
+              <![CDATA[First name added]]>
+            </line>
+            <line>
+              <![CDATA[Last name added]]>
+            </line>
+            <line>
+              <![CDATA[Zipcode added]]>
+            </line>
+            <line>
+              <![CDATA[Checkout description is dispalyed]]>
+            </line>
+            <line>
+              <![CDATA[Thank you message is dispalyed]]>
+            </line>
+            <line>
+              <![CDATA[Hurrrraayyyyyy!!!!! Your product is placed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addproduct -->
+        <test-method is-config="true" signature="Logout()[pri:0, instance:AddProduct.AddProductTest@6f4a47c7]" started-at="2025-05-13T21:30:36 IST" name="Logout" finished-at="2025-05-13T21:30:37 IST" duration-ms="473" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout suucessful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:AddProduct.AddProductTest@6f4a47c7]" started-at="2025-05-13T21:30:37 IST" name="browserClose" finished-at="2025-05-13T21:30:38 IST" duration-ms="927" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- AddProduct.AddProductTest -->
+    </test> <!-- Test2 -->
+  </suite> <!-- RegressionSuite -->
+</testng-results>
